@@ -22,4 +22,8 @@ language : python3.7
 > - goal reward : 100   
 > - bomb reward : -100   
 > - bonus reward : 1   
+
+
 > result(output.txt) : print path to goal and maximum Q value of start point   
+
+<img src = "https://user-images.githubusercontent.com/77712822/147210763-cb98b6d5-e2b2-43fd-84ab-d839c0543570.png">
