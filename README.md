@@ -13,3 +13,13 @@ language : python3.7
 > 3. Constraint Satisfaction Problem   
 > search goal given constraint   
 > backtracking   
+
+
+## Project 2
+> Q learning(reinforcemnt learning)   
+> 5 x 5 board
+> start from (0,0) to goal
+> goal reward : 100
+> bomb reward : -100
+> bonus reward : 1
+> result : print path to goal and maximum Q value of start point
